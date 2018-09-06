@@ -22,7 +22,7 @@ function iLoveTheBeatles(num) {
   num = parseInt(num)
   var loveArray = []
 function incrementVariable() {
-num -= 1;
+num += 1;
 }
 
 do {
